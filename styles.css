@@ -91,13 +91,13 @@ body {
   
   .clock .hand.minute {
     width: 7px;
-    height: 40%;
+    height: 35%;
     background-color: black;
   }
   
   .clock .hand.hour {
     width: 10px;
-    height: 35%;
+    height: 25%;
     background-color: black;
   }
 
