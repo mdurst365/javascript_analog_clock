@@ -12,7 +12,7 @@ This is a tutorial that I completed to keep practicing my JavaScript coding outs
 - Basic CSS pseudo element usage
 
 # Screenshot of completed project
-![Analog Clock](https://raw.githubusercontent.com/mdurst365/javascript_analog_clock/main/screenshot.JPG)
+![Analog Clock](https://raw.githubusercontent.com/mdurst365/javascript_analog_clock/main/screenshot.png)
 
 # Link to Tutorial
 https://www.youtube.com/watch?v=Ki0XXrlKlHY&ab_channel=WebDevSimplified
